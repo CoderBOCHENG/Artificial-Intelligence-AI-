@@ -1,0 +1,5 @@
+
+pip install opencv-python   = install CV2
+pip install imutils	    = install imutils
+pip install numpy	    = instal numpy
+pip install tensorflow      = tensorflow

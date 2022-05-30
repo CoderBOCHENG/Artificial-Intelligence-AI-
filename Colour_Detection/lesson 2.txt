@@ -1,0 +1,4 @@
+pip install matplotlib.pyplot   = matplotlib.pyplot
+pip install sklearn	    	= imutils
+pip install KMeans	    	= KMeans
+
